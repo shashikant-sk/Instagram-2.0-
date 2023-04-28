@@ -1,46 +1,46 @@
 export const USERS=[
     {
         user:'Saubhagya',
-        image:'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+        image:'https://media.licdn.com/dms/image/C5603AQHxmBF9VYpniw/profile-displayphoto-shrink_800_800/0/1600160802737?e=1676505600&v=beta&t=YXP8BztkCy06roTBN5Yhr9MUQYCnXCwIAVzYLFqVGJo'
     },
     {
         user:'Ramesh',
-        image:'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+        image:'https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTk0NTA5MDIyNjM4OTA5MDM4/black-adam-madrid-photocall.webp'
     },
     {
-        user:'Yadav',
-        image:'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+        user:'andrew tate',
+        image:'https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1240/MTkxODMyNDY0NTE4MjkyOTc4/uncharted.webp'
     },
     {
-        user:'Deepak',
-        image:'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+        user:'Greta',
+        image:'https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1240/MTk0ODEyNDI0MjI4OTcyMDU2/greta.webp'
     },
     {
         user:'Swagat',
-        image:'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+        image:'https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1240/MTk3MzE2ODA5NzI3MTU3NTI1/mila-kunis-ashton-kutcher.webp'
     },
     {
         user:'Arpan',
-        image:'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+        image:'https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_972/MTk3MzE0OTU5NjY5OTk1NTE1/screen-shot-2023-04-17-at-100451-am.webp'
     },
     {
         user:'Shane',
-        image:'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+        image:'https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1240/MTk3MzE2MDg4MTcyNjUyNTM5/celebrity-sightings-in-los-angeles---april-14-2023.webp'
     },
     {
         user:'Saubhagya',
-        image:'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+        image:'https://media.licdn.com/dms/image/C5603AQHxmBF9VYpniw/profile-displayphoto-shrink_800_800/0/1600160802737?e=1676505600&v=beta&t=YXP8BztkCy06roTBN5Yhr9MUQYCnXCwIAVzYLFqVGJo'
     },
     {
         user:'Mangu',
-        image:'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+        image:'https://media.licdn.com/dms/image/C5603AQHxmBF9VYpniw/profile-displayphoto-shrink_800_800/0/1600160802737?e=1676505600&v=beta&t=YXP8BztkCy06roTBN5Yhr9MUQYCnXCwIAVzYLFqVGJo'
     },
     {
         user:'Saubhagya',
-        image:'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+        image:'https://media.licdn.com/dms/image/C5603AQHxmBF9VYpniw/profile-displayphoto-shrink_800_800/0/1600160802737?e=1676505600&v=beta&t=YXP8BztkCy06roTBN5Yhr9MUQYCnXCwIAVzYLFqVGJo'
     },
     {
         user:'Sid',
-        image:'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+        image:'https://media.licdn.com/dms/image/C5603AQHxmBF9VYpniw/profile-displayphoto-shrink_800_800/0/1600160802737?e=1676505600&v=beta&t=YXP8BztkCy06roTBN5Yhr9MUQYCnXCwIAVzYLFqVGJo'
     },
 ]
